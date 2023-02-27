@@ -58,7 +58,7 @@ pwd
 
 ## ls
 
-[Youtube Tutorial - Linux 指令教學 - ls](https://youtu.be/3Zy1AWuDUHE)
+* [Youtube Tutorial - Linux 指令教學 - ls](https://youtu.be/3Zy1AWuDUHE)
 
 列出檔案
 
@@ -605,7 +605,7 @@ echo YourPwd | sudo -S groupadd <groupname>
 
 ## chmod
 
-[Youtube Tutorial - Linux 教學 - chmod](https://youtu.be/qwk4Pzgtf2I)
+* [Youtube Tutorial - Linux 教學 - chmod](https://youtu.be/qwk4Pzgtf2I)
 
 chmod 為 change mode 的縮寫.
 
@@ -737,7 +737,7 @@ chown twtrubiks:twtrubiksgroup README.md
 
 ## ln
 
-[Youtube Tutorial - Linux 指令教學 - ln (Symbolic Link)](https://youtu.be/jdZsO2GAf2I)
+* [Youtube Tutorial - Linux 指令教學 - ln (Symbolic Link)](https://youtu.be/jdZsO2GAf2I)
 
 有兩種, 分別為 hard link 和 Symbolic link ( soft link ),
 
@@ -921,7 +921,7 @@ Linux 之間的傳送也是相同的道理:smile:
 
 ## mv
 
-[Youtube Tutorial - Linux 指令教學 - mv](https://youtu.be/VhyzaEaGnL8)
+* [Youtube Tutorial - Linux 指令教學 - mv](https://youtu.be/VhyzaEaGnL8)
 
 move ( rename ) files，**移動檔案**或是**重新命名檔案**。
 
@@ -958,7 +958,7 @@ mv -u source_file path_to_destination/
 
 ## rm
 
-[Youtube Tutorial - Linux 指令教學 - rm](https://youtu.be/JqKjBZMXn_I)
+* [Youtube Tutorial - Linux 指令教學 - rm](https://youtu.be/JqKjBZMXn_I)
 
 刪除檔案
 
@@ -998,7 +998,7 @@ rm -f *demo.zip
 
 ## cp
 
-[Youtube Tutorial - Linux 指令教學 - cp](https://youtu.be/ORl0YUGY728)
+* [Youtube Tutorial - Linux 指令教學 - cp](https://youtu.be/ORl0YUGY728)
 
 複製資料夾
 
@@ -1647,7 +1647,7 @@ cal 12 2022
 
 ## du
 
-[Youtube Tutorial - Linux 指令教學 - du(Disk Usage)](https://youtu.be/JZZoJnasnHE)
+* [Youtube Tutorial - Linux 指令教學 - du(Disk Usage)](https://youtu.be/JZZoJnasnHE)
 
 du 這個指令是 Disk Usage 的縮寫,
 
@@ -1717,7 +1717,7 @@ du -d 2 -h
 
 ## truncate
 
-[Youtube Tutorial - Linux 指令教學 - truncate](https://youtu.be/w2pwD1AOhPI)
+* [Youtube Tutorial - Linux 指令教學 - truncate](https://youtu.be/w2pwD1AOhPI)
 
 Shrink or extend the size of each FILE to the specified size.
 
@@ -1799,6 +1799,8 @@ sudo truncate -s 0 /var/log/**/*.log
 
 ## shred
 
+* [Youtube Tutorial - Linux 指令教學 - tldr , shred , sleep](https://youtu.be/RqI-DF1I8R0?t=172)
+
 銷毀重要的檔案, 防止救援軟體還原,
 
 Overwrite files to securely delete data.
@@ -1830,6 +1832,8 @@ shred --remove demo.txt
 ```
 
 ## sleep
+
+* [Youtube Tutorial - Linux 指令教學 - tldr , shred , sleep](https://youtu.be/RqI-DF1I8R0?t=358)
 
 可以延遲特定的時間, 再執行對應的指令
 
